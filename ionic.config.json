@@ -1,0 +1,7 @@
+{
+  "name": "testCordovaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
